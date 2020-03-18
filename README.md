@@ -1,5 +1,5 @@
 # alfred-workflow-ip-loc
-alfred workflow 通过IP地址查询位置
+Alfred workflow 通过IP地址查询位置，通过脚本调用ip138查询，查询结果仅供参考。
 
 ## 演示DEMO
 
@@ -8,4 +8,7 @@ alfred workflow 通过IP地址查询位置
 ## 使用方式
 
 1. [点击下载](https://raw.githubusercontent.com/peiel/alfred-workflow-ip-loc/master/alfred-workflow-ip-loc.alfredworkflow)
-2. 双击安装 or 拖动到alfred的workflows中
+2. 【双击安装】 or 【拖动到alfred的workflows中】
+
+---
+喜欢可以点个star，非常感谢。
