@@ -3,7 +3,7 @@ Alfred workflow 通过IP地址查询位置，通过脚本调用ip138查询，查
 
 ## DEMO
 
-![demo](https://cdn.jsdelivr.net/gh/peiel/oss@master/uPic/Kapture%202020-03-18%20at%2010.36.17.gif)
+![demo](http://peierlong-blog.oss-cn-hongkong.aliyuncs.com/uPic/Kapture%202020-03-18%20at%2010.36.17.gif)
 
 ## Install
 
